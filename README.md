@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Advait</h1>
+<h1 align="center">Hi , I'm Advait</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Blockchain**
+-  I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Frameworks,Data analaytics**
+-  I’m currently learning **Frameworks,Data analaytics**
 
-- ⚡ Fun fact **I do vibe code**
+-  Fun fact **I do vibe code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
